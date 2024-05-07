@@ -1,0 +1,23 @@
+@font-face {
+  font-family: jacquard;
+  src:url(../font/Jacquard24-Regular.ttf);
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: jacquard;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+a {
+  font-size: 40px;
+  position: absolute;
+  color:white;
+  text-decoration: none;
+  left: 90%;
+  top: 90%;
+}
